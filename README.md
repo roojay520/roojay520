@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/roojay520/roojay520/raw/master/spinner.svg?sanitize=true" width="40" height="40">
 
 <!--
 **roojay520/roojay520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
