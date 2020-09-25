@@ -9,6 +9,11 @@
 	<br>
 	<br>
 	<br>
+	<p align="center"> 
+	  Visitor Count<br>
+	  <img src="https://profile-counter.glitch.me/roojay520/count.svg" />
+	</p>
+
 </div>
 
 <!--
