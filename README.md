@@ -12,7 +12,11 @@
 	<p align="center"> 
 	  Visitor Count<br>
 	  <img src="https://profile-counter.glitch.me/roojay520/count.svg" />
+	  <br>
+	  GitHub Stats<br>
+	  <img src="https://github-readme-stats.vercel.app/api?username=roojay520&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 	</p>
+	
 
 </div>
 
